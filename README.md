@@ -15,4 +15,6 @@ The code will draw a card for each player and then award a point to the user or 
 
 ## Demo
 
-<div style="width:100%;height:0;padding-bottom:216%;position:relative;"><iframe src="https://giphy.com/embed/qXJyNK75RAzXonC2nG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/qXJyNK75RAzXonC2nG">via GIPHY</a></p>
+![Alt Text](<div style="width:100%;height:0;padding-bottom:216%;position:relative;"><iframe src="https://giphy.com/embed/qXJyNK75RAzXonC2nG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/qXJyNK75RAzXonC2nG">via GIPHY</a></p>)
+
+
