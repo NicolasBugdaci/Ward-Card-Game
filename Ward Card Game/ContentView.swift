@@ -1,9 +1,7 @@
-//
 //  ContentView.swift
 //  Ward Card Game
 //
 //  Created by Nicolas Bugdaci on 02/05/2024.
-//
 
 import SwiftUI
 
@@ -13,8 +11,6 @@ struct ContentView: View {
     @State var cpuCard = "card2"
     @State var playerScore  = 0
     @State var cpuScore = 0
-    
-    
     
     var body: some View {
         
@@ -112,9 +108,6 @@ struct ContentView: View {
             // do nothing
         }
     }
-    
-    
-    
 }
 
 #Preview {
